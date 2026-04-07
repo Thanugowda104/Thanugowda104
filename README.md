@@ -48,7 +48,7 @@ Uploading poster.png.mp4…
 ## 📸 Project Preview
 
 <p align="center">
-  <img src="poster.png" width="400"/>
+  <img src="poster.png (2).png" width="400"/>
 </p>
 
 ---
