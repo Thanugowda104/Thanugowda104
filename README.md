@@ -44,7 +44,7 @@
 ## 📸 Project Preview
 
 <p align="center">
-  <img src="poster.png" width="300"/>
+  <img src="poster.png" width="400"/>
 </p>
 
 ---
