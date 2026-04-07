@@ -55,7 +55,7 @@ Uploading poster.png.mp4…
 
 ## 📊 GitHub Stats
 
-![Thanushree's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thanugowda104\&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thanugowda104&show_icons=true&theme=tokyonight)
 
 ---
 
